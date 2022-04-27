@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imorange
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any AI project
 - 📫 How to reach me 907417426@qq.com
 
 <!---
